@@ -1,0 +1,15 @@
+C:\Users\ekate\source\repos\PracticalWork7Chapt1\bin\Debug\net8.0\PracticalWork7Chapt1.exe
+C:\Users\ekate\source\repos\PracticalWork7Chapt1\bin\Debug\net8.0\PracticalWork7Chapt1.deps.json
+C:\Users\ekate\source\repos\PracticalWork7Chapt1\bin\Debug\net8.0\PracticalWork7Chapt1.runtimeconfig.json
+C:\Users\ekate\source\repos\PracticalWork7Chapt1\bin\Debug\net8.0\PracticalWork7Chapt1.dll
+C:\Users\ekate\source\repos\PracticalWork7Chapt1\bin\Debug\net8.0\PracticalWork7Chapt1.pdb
+C:\Users\ekate\source\repos\PracticalWork7Chapt1\obj\Debug\net8.0\PracticalWork7Chapt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekate\source\repos\PracticalWork7Chapt1\obj\Debug\net8.0\PracticalWork7Chapt1.AssemblyInfoInputs.cache
+C:\Users\ekate\source\repos\PracticalWork7Chapt1\obj\Debug\net8.0\PracticalWork7Chapt1.AssemblyInfo.cs
+C:\Users\ekate\source\repos\PracticalWork7Chapt1\obj\Debug\net8.0\PracticalWork7Chapt1.csproj.CoreCompileInputs.cache
+C:\Users\ekate\source\repos\PracticalWork7Chapt1\obj\Debug\net8.0\PracticalWork7Chapt1.dll
+C:\Users\ekate\source\repos\PracticalWork7Chapt1\obj\Debug\net8.0\refint\PracticalWork7Chapt1.dll
+C:\Users\ekate\source\repos\PracticalWork7Chapt1\obj\Debug\net8.0\PracticalWork7Chapt1.pdb
+C:\Users\ekate\source\repos\PracticalWork7Chapt1\obj\Debug\net8.0\PracticalWork7Chapt1.genruntimeconfig.cache
+C:\Users\ekate\source\repos\PracticalWork7Chapt1\obj\Debug\net8.0\ref\PracticalWork7Chapt1.dll
+C:\Users\ekate\source\repos\PracticalWork7Chapt1\obj\Debug\net8.0\PracticalWork7Chapt1.sourcelink.json
