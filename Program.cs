@@ -1,41 +1,43 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace DebuggingIntro
+namespace ConsoleApp_FirstApp
 {
     /// <summary>
-    /// Главный класс программы для отладки последовательности Фибоначчи.
+    /// Главный класс программы для пошагового вывода букв имени.
     /// </summary>
     class Program
     {
         /// <summary>
-        /// Точка входа в приложение. Вычисляет и выводит число Фибоначчи.
+        /// Выполняет основную работу программы: посимвольно выводит буквы имени с задержкой.
+        /// </summary>
+        private static void doWork()
+        {
+            string name = "Mads";
+            string letters = string.Empty;
+
+            Console.WriteLine("Hello, " + name);
+
+            for (int i = 0; i < name.Length; i++)
+            {
+                letters += name[i];
+                Console.WriteLine(letters);
+                System.Threading.Thread.Sleep(200);
+            }
+
+            Console.ReadKey();
+        }
+
+        /// <summary>
+        /// Точка входа в приложение.
         /// </summary>
         /// <param name="args">Аргументы командной строки.</param>
         static void Main(string[] args)
         {
-            int result = Fibonacci(5);
-            Console.WriteLine(result);
-        }
-
-        /// <summary>
-        /// Вычисляет n-ое число последовательности Фибоначчи.
-        /// </summary>
-        /// <param name="n">Порядковый номер числа в последовательности.</param>
-        /// <returns>Значение n-ого числа Фибоначчи.</returns>
-        static int Fibonacci(int n)
-        {
-            int n1 = 0;
-            int n2 = 1;
-            int sum;
-
-            for (int i = 2; i < n; i++)
-            {
-                sum = n1 + n2;
-                n1 = n2;
-                n2 = sum;
-            }
-
-            return n == 0 ? n1 : n2;
+            doWork();
         }
     }
 }
